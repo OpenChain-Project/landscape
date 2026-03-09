@@ -1,0 +1,8 @@
+# Membership levels; name is the membership level name in LFX; category is the matching subcategory name in the landscape
+landscapeMemberClasses:
+   - name: Platinum Membership
+     category: Platinum
+# Slug for the project from LFX
+slug: openchain
+# Category name for members
+landscapeMemberCategory: OpenChain Members

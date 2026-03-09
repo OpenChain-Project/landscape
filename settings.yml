@@ -1,0 +1,57 @@
+# Landscape2 settings
+#
+# This settings file allows customizing some aspects of the landscape.
+#
+# Reference documentation: https://github.com/cncf/landscape2/blob/main/docs/config/settings.yml
+
+foundation: openchain
+
+url: http://127.0.0.1:8000
+
+colors:
+  color1: "rgba(0, 107, 204, 1)"
+  color2: "rgba(255, 0, 170, 1)"
+  color3: "rgba(96, 149, 214, 1)"
+  color4: "rgba(0, 42, 81, 0.7)"
+  color5: "rgba(1, 107, 204, 0.7)"
+  color6: "rgba(0, 42, 81, 0.7)"
+  color7: "rgba(180, 219, 255, 1)"
+
+description: OpenChain Landscape
+
+featured_items:
+  - field: maturity
+    options:
+      - value: graduated
+        order: 1
+        label: Graduated
+
+footer:
+  links:
+    facebook: "https://www.facebook.com/openchainproject/"
+    github: "https://github.com/OpenChain-Project"
+    homepage: "https://openchainproject.org"
+    linkedin: "https://www.linkedin.com/company/openchain/"
+    slack: "http://slack.openchainproject.org/"
+    twitter: "https://twitter.com/openchainproj"
+  logo: "https://openchainproject.org/wp-content/uploads/sites/30/2019/10/openchain-hztl-color-01.svg"
+
+grid_items_size: large
+
+groups:
+  - name: Members
+    categories:
+      - OpenChain Members
+  - name: Partners
+    categories:
+      - Partners
+  - name: Community of Conformance
+    categories:
+      - Conformance
+
+header:
+  links:
+    github: "https://github.com/cncf/landscape2"
+  logo: "https://openchainproject.org/wp-content/uploads/sites/30/2019/10/openchain-hztl-color-01.svg"
+
+screenshot_width: 1500

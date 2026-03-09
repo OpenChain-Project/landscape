@@ -1,0 +1,993 @@
+landscape:
+  - category:
+    name: Conformance
+    subcategories:
+      - subcategory:
+        name: OpenChain ISO/IEC 5230
+        items:
+          - name: AB EHR
+            logo: abehr.svg
+            homepage_url: https://abehr.com/
+          - name: AbacatePay
+            logo: abacatepay.svg
+            homepage_url: https://abacatepay.com/
+          - name: Alibaba Cloud
+            logo: alibaba-cloud.svg
+            homepage_url: https://www.alibabacloud.com/
+          - name: Analog Devices
+            logo: analog-devices.svg
+            homepage_url: https://www.analog.com/
+          - name: Aptiv
+            logo: aptiv.svg
+            homepage_url: https://www.aptiv.com/
+          - name: Arm Limited
+            homepage_url: https://arm.com/
+            logo: arm_limited.svg
+          - name: ASML
+            logo: asml.svg
+            homepage_url: https://www.asml.com/
+          - name: AVL List GmbH
+            logo: avl.svg
+            homepage_url: https://www.avl.com/
+          - name: B2M Solutions
+            logo: b2m.svg
+            homepage_url: https://b2msolutions.com/
+          - name: BangDB
+            logo: bangdb.svg
+            homepage_url: https://bangdb.com/
+          - name: BlackBerry
+            logo: blackberry.svg
+            homepage_url: https://www.blackberry.com/
+            second_path:
+              - Conformance / OpenChain ISO/IEC 18974
+          - name: Bobble AI
+            logo: bobble.svg
+            homepage_url: https://www.bobble.ai/
+          - name: Bosch
+            homepage_url: https://bosch.com/
+            logo: bosch.svg
+          - name: ByteDance
+            homepage_url: https://bytedance.com/
+            logo: bytedance_ltd.svg
+          - name: CEHLabs
+            logo: cehlabs.svg
+            homepage_url: https://cehlabs.com/
+          - name: China Mobile
+            logo: china-mobile.svg
+            homepage_url: https://www.10086.cn/
+          - name: Circle
+            logo: circle.svg
+            homepage_url: https://www.circle.com/
+          - name: Cisco
+            homepage_url: https://cisco.com/
+            logo: cisco_systems_inc.svg
+          - name: CJ CGV
+            logo: cj-cgv.svg
+            homepage_url: https://www.cgv.co.kr/
+          - name: Cloudera
+            logo: cloudera.svg
+            homepage_url: https://www.cloudera.com/
+          - name: Codewise
+            logo: codewise.svg
+            homepage_url: https://codewise.com/
+          - name: Cognizant
+            logo: cognizant.svg
+            homepage_url: https://www.cognizant.com/
+          - name: Collabora
+            logo: collabora.svg
+            homepage_url: https://www.collabora.com/
+          - name: Computermind
+            logo: computermind.svg
+            homepage_url: https://computermind.com/
+          - name: COONTEC
+            logo: coontec.svg
+            homepage_url: http://www.coontec.com/
+          - name: CP1 Associates
+            logo: cp1.svg
+            homepage_url: https://cp1associates.com/
+          - name: Credativ
+            logo: credativ.svg
+            homepage_url: https://www.credativ.com/
+          - name: CSI Piemonte
+            logo: csi-piemonte.svg
+            homepage_url: https://www.csipiemonte.it/
+          - name: Dotcal
+            logo: dotcal.svg
+            homepage_url: https://dotcal.com/
+          - name: dSpace
+            logo: dspace.svg
+            homepage_url: https://www.dspace.com/
+          - name: ECARX
+            logo: ecarx.svg
+            homepage_url: https://www.ecarxgroup.com/
+          - name: Eclipse Foundation
+            logo: eclipse.svg
+            homepage_url: https://www.eclipse.org/
+          - name: Elektrobit
+            logo: elektrobit.svg
+            homepage_url: https://www.elektrobit.com/
+          - name: element.io
+            logo: element.svg
+            homepage_url: https://element.io/
+          - name: Elixir Project
+            logo: elixir.svg
+            homepage_url: https://elixir-lang.org/
+          - name: emlix
+            logo: emlix.svg
+            homepage_url: https://www.emlix.com/
+            second_path:
+              - Conformance / OpenChain ISO/IEC 18974
+          - name: Endocode
+            logo: endocode.svg
+            homepage_url: https://endocode.com/
+          - name: Erlang/OTP
+            logo: erlang.svg
+            homepage_url: https://www.erlang.org/
+          - name: ETRI
+            logo: etri.svg
+            homepage_url: https://www.etri.re.kr/
+          - name: Famisanar EPS
+            logo: famisanar.svg
+            homepage_url: https://www.famisanar.com.co/
+          - name: Finovace
+            logo: finovace.svg
+            homepage_url: https://finovace.com/
+          - name: Fujitsu
+            homepage_url: https://fujitsu.com/
+            logo: fujitsu_limited.svg
+            second_path:
+              - Conformance / OpenChain ISO/IEC 18974
+          - name: GE Digital
+            logo: ge.svg
+            homepage_url: https://www.ge.com/digital/
+          - name: General Data Technology Co., Ltd.
+            logo: gdt.svg
+            homepage_url: http://www.gdt-soft.com/
+          - name: Google
+            logo: google.svg
+            homepage_url: https://opensource.google/
+          - name: H3C
+            logo: h3c.svg
+            homepage_url: https://www.h3c.com/
+          - name: Hancom
+            logo: hancom.svg
+            homepage_url: https://www.hancom.com/
+          - name: HARMAN International
+            logo: harman.svg
+            homepage_url: https://www.harman.com/
+          - name: Hella Aglaia
+            logo: hella.svg
+            homepage_url: https://www.hella-aglaia.com/
+          - name: Hensoldt AG
+            logo: hensoldt.svg
+            homepage_url: https://www.hensoldt.net/
+          - name: Hitachi
+            homepage_url: https://hitachi.com/
+            logo: hitachi_ltd.svg
+          - name: Hitachi Vantara
+            logo: hitachi-vantara.svg
+            homepage_url: https://www.hitachivantara.com/
+          - name: HLB Surlatina Chile
+            logo: hlb.svg
+            homepage_url: https://www.hlbsurlatina.cl/
+          - name: Honda Motor Co., Ltd.
+            homepage_url: https://honda.com/
+            logo: honda_motor_co_ltd.svg
+            second_path:
+              - Conformance / OpenChain ISO/IEC 18974
+          - name: Hyundai
+            logo: hyundai.svg
+            homepage_url: https://www.hyundai.com/
+          - name: Hyundai AutoEver
+            logo: hyundai-autoever.svg
+            homepage_url: https://www.hyundai-autoever.com/
+          - name: Hyundai Mobis
+            logo: hyundai-mobis.svg
+            homepage_url: https://www.mobis.co.kr/
+          - name: IAV GmbH
+            logo: iav.svg
+            homepage_url: https://www.iav.com/
+          - name: IBM
+            logo: ibm.svg
+            homepage_url: https://www.ibm.com/
+          - name: Infosys
+            logo: infosys.svg
+            homepage_url: https://www.infosys.com/
+          - name: Inno3
+            logo: inno3.svg
+            homepage_url: https://inno3.fr/
+          - name: Intelligence Node
+            logo: intelligence-node.svg
+            homepage_url: https://www.intelligencenode.com/
+          - name: Interneuron
+            logo: interneuron.svg
+            second_path:
+              - Conformance / OpenChain ISO/IEC 18974
+            homepage_url: https://www.interneuron.org/
+          - name: iwinstack
+            logo: iwinstack.svg
+            homepage_url: https://www.iwinstack.com/
+          - name: Kakao
+            logo: kakao.svg
+            homepage_url: https://www.kakaocorp.com/
+          - name: KakaoBank
+            logo: kakaobank.svg
+            homepage_url: https://www.kakaobank.com/
+            second_path:
+              - Conformance / OpenChain ISO/IEC 18974
+          - name: Keitaro
+            logo: keitaro.svg
+            homepage_url: https://www.keitaro.com/
+          - name: KFTC
+            logo: kftc.svg
+            homepage_url: https://www.kftc.or.kr/
+          - name: KIA
+            logo: kia.svg
+            homepage_url: https://www.kia.com/
+          - name: KKCOMPANY
+            logo: kkcompany.svg
+            homepage_url: https://www.kkcompany.com/
+          - name: Korea Telcom (KT)
+            logo: kt.svg
+            homepage_url: https://www.kt.com/
+            second_path:
+              - Conformance / OpenChain ISO/IEC 18974
+          - name: L. D. College of Engineering
+            logo: ldce.svg
+            homepage_url: https://ldce.ac.in/
+          - name: LG Electronics
+            logo: lg.svg
+            homepage_url: https://www.lg.com/
+            second_path:
+              - Conformance / OpenChain ISO/IEC 18974
+          - name: Liferay
+            logo: liferay.svg
+            homepage_url: https://www.liferay.com/
+          - name: LINE Corporation
+            logo: line.svg
+            homepage_url: https://linecorp.com/
+          - name: LSware
+            logo: lsware.svg
+            homepage_url: http://www.lsware.com/
+          - name: Lyra Infosystems
+            logo: lyra.svg
+            homepage_url: https://www.lyrainfo.com/
+          - name: Mercedes-Benz Research and Development India
+            logo: mercedes-benz.svg
+            homepage_url: https://www.mercedes-benz.com/
+          - name: Microsoft
+            logo: microsoft_corporation.svg
+            homepage_url: https://www.microsoft.com/
+          - name: NAVER
+            logo: naver.svg
+            homepage_url: https://www.navercorp.com/
+          - name: NCSoft
+            logo: ncsoft.svg
+            homepage_url: https://www.ncsoft.com/
+          - name: NEC
+            logo: nec_corporation.svg
+            homepage_url: https://www.nec.com/
+          - name: Next Cloud
+            logo: nextcloud.svg
+            homepage_url: https://nextcloud.com/
+          - name: NodeWeaver
+            logo: nodeweaver.svg
+            homepage_url: https://nodeweaver.eu/
+          - name: Nokia
+            logo: nokia.svg
+            homepage_url: https://www.nokia.com/
+          - name: Numbers
+            logo: numbers.svg
+            homepage_url: https://numbersprotocol.io/
+          - name: NXP
+            logo: nxp.svg
+            homepage_url: https://www.nxp.com/
+          - name: Open Source Security
+            logo: oss.svg
+            homepage_url: https://opensourcesecurity.io/
+          - name: OpenAnolis
+            logo: openanolis.svg
+            homepage_url: https://openanolis.cn/
+          - name: openEuler
+            logo: openeuler.svg
+            homepage_url: https://openeuler.org/
+            second_path:
+              - Conformance / OpenChain ISO/IEC 18974
+          - name: OpenHarmony
+            logo: openharmony.svg
+            homepage_url: https://www.openharmony.cn/
+          - name: OPPO
+            logo: oppo.svg
+            homepage_url: https://www.oppo.com/
+          - name: Osaka NDS
+            logo: osaka-nds.svg
+            homepage_url: https://www.nds-grp.co.jp/
+          - name: Panasonic Automotive Systems
+            logo: panasonic.svg
+            homepage_url: https://automotive.panasonic.com/
+          - name: Panx Project
+            logo: panx.svg
+            homepage_url: https://panx.io/
+          - name: Pelagicore
+            logo: pelagicore.svg
+            homepage_url: https://www.pelagicore.com/
+          - name: PingCap
+            logo: pingcap.svg
+            homepage_url: https://www.pingcap.com/
+          - name: QCT
+            logo: qct.svg
+            homepage_url: https://www.qct.io/
+          - name: QNAP Systems, Inc.
+            logo: qnap.svg
+            homepage_url: https://www.qnap.com/
+          - name: Qualcomm
+            homepage_url: https://qualcomm.com/
+            logo: qualcomm_inc.svg
+          - name: Revenera
+            logo: revenera.svg
+            homepage_url: https://www.revenera.com/
+            second_path:
+              - Conformance / OpenChain ISO/IEC 18974
+          - name: S-core
+            logo: s-core.svg
+            homepage_url: https://www.s-core.co.kr/
+            second_path:
+              - Conformance / OpenChain ISO/IEC 18974
+          - name: SAIC Z-One
+            logo: saic.svg
+            homepage_url: https://www.z-one.ai/
+          - name: Samsung Electronics
+            logo: samsung.svg
+            homepage_url: https://www.samsung.com/
+          - name: Samsung SDS
+            logo: samsung-sds.svg
+            homepage_url: https://www.samsungsds.com/
+            second_path:
+              - Conformance / OpenChain ISO/IEC 18974
+          - name: SAP
+            logo: sap.svg
+            homepage_url: https://www.sap.com/
+          - name: Scania
+            logo: scania.svg
+            homepage_url: https://www.scania.com/
+          - name: Sector7G
+            logo: sector7g.svg
+            homepage_url: https://sector7g.com/
+          - name: SecuraPoint
+            logo: securapoint.svg
+            homepage_url: https://securapoint.com/
+          - name: Seven Services
+            logo: seven-services.svg
+            homepage_url: https://sevenservices.it/
+          - name: Shanghai Development Center of Computer Software Technology
+            logo: ssdc.svg
+            homepage_url: http://www.ssdc.org.cn/
+          - name: Shareablee
+            logo: shareablee.svg
+            homepage_url: https://www.shareablee.com/
+          - name: Siemens
+            homepage_url: https://siemens.com/
+            logo: siemens_ag.svg
+          - name: Siemens Healthineers
+            logo: siemens-healthineers.svg
+            homepage_url: https://www.siemens-healthineers.com/
+          - name: SK Telecom
+            logo: sk-telecom.svg
+            homepage_url: https://www.sktelecom.com/
+          - name: Socionext
+            logo: socionext.svg
+            homepage_url: https://www.socionext.com/
+          - name: Software Security Technology Co., Ltd.
+            logo: sst.svg
+            homepage_url: https://www.sst-soft.com/
+          - name: Sony
+            homepage_url: https://sony.com/en/
+            logo: sony_group_corporation.svg
+          - name: Source Auditor
+            logo: source-auditor.svg
+            homepage_url: https://www.sourceauditor.com/
+          - name: Source Code Control
+            logo: scc.svg
+            homepage_url: https://sourcecodecontrol.co/
+            second_path:
+              - Conformance / OpenChain ISO/IEC 18974
+          - name: SUSE
+            logo: suse.svg
+            homepage_url: https://www.suse.com/
+          - name: Suzhou Prism Colorful Information Technology Co., Ltd.
+            logo: prism-colorful.svg
+            homepage_url: http://www.prism-colorful.com/
+          - name: Synology
+            logo: synology.svg
+            homepage_url: https://www.synology.com/
+          - name: Telechips
+            logo: telechips.svg
+            homepage_url: https://www.telechips.com/
+          - name: The Center for Research and Development Hong Kong (CRD-HK)
+            logo: crd-hk.svg
+            homepage_url: https://www.crd.org.hk/
+          - name: Tjaldur
+            logo: tjaldur.svg
+            homepage_url: https://tjaldur.com/
+          - name: Togan Labs
+            logo: togan-labs.svg
+            homepage_url: https://toganlabs.com/
+          - name: TomTom
+            logo: tomtom.svg
+            homepage_url: https://www.tomtom.com/
+          - name: Toshiba
+            homepage_url: https://toshiba.com/
+            logo: toshiba_corporation.svg
+          - name: Toyota
+            homepage_url: https://toyota.com/
+            logo: toyota_motor_corporation.svg
+          - name: Uber
+            logo: uber.svg
+            homepage_url: https://www.uber.com/
+          - name: Ura
+            logo: ura.svg
+            homepage_url: https://ura.design/
+          - name: Vectoverse
+            logo: vectoverse.svg
+            homepage_url: https://vectoverse.com/
+          - name: Visteon
+            logo: visteon.svg
+            homepage_url: https://www.visteon.com/
+          - name: Volvo Cars
+            logo: volvo.svg
+            homepage_url: https://www.volvocars.com/
+          - name: Western Digital
+            logo: western-digital.svg
+            homepage_url: https://www.westerndigital.com/
+          - name: Wind
+            logo: wind.svg
+            homepage_url: https://www.windriver.com/
+          - name: Woven by Toyota
+            logo: woven.svg
+            homepage_url: https://woven.toyota/
+          - name: xFusion
+            logo: xfusion.svg
+            homepage_url: https://www.xfusion.com/
+          - name: Yandex KZ
+            logo: yandex.svg
+            homepage_url: https://yandex.kz/
+          - name: Yes Security
+            logo: yes-security.svg
+            homepage_url: https://yes-security.com/
+          - name: Yoma Bank
+            logo: yoma.svg
+            homepage_url: https://www.yomabank.com/
+          - name: ZF
+            logo: zf.svg
+            homepage_url: https://www.zf.com/
+          - name: ZOOM
+            logo: zoom.svg
+            homepage_url: https://zoom.us/
+          - name: ZTE
+            logo: zte.svg
+            homepage_url: https://www.zte.com.cn/
+      - subcategory:
+        name: OpenChain ISO/IEC 18974
+        items:
+          - name: Canpus
+            logo: canpus.svg
+            homepage_url: https://www.canpus.com/
+          - name: Netcore
+            logo: netcore.svg
+            homepage_url: https://netcorecloud.com/
+          - name: UnionTech Software
+            logo: uniontech.svg
+            homepage_url: https://www.uniontech.com/
+  - category:
+    name: Partners
+    subcategories:
+      - subcategory:
+        name: Law Firms
+        items:
+          - name: Across Legal
+            logo: across_legal.svg
+            homepage_url: https://acrosslegal.com/
+          - name: Array
+            logo: array.svg
+            homepage_url: https://www.array.sh/
+          - name: ATOUT PI LAPLACE
+            logo: atout-pi.svg
+            homepage_url: https://atoutpilaplace.com/
+          - name: Baker Botts
+            logo: bakerbotts.svg
+            homepage_url: https://www.bakerbotts.com/
+          - name: BKL
+            logo: bkl.svg
+            homepage_url: http://www.bkl.co.kr/
+          - name: CMS
+            logo: cms.svg
+            homepage_url: https://cms.law/
+          - name: Fieldfisher
+            logo: fieldfisher.svg
+            homepage_url: https://www.fieldfisher.com/
+          - name: GTC Law Group
+            logo: gtc.svg
+            homepage_url: https://gtclawgroup.com/
+          - name: HBSR
+            logo: hbsr.svg
+            homepage_url: https://www.hbsr.com/
+          - name: HH Partners
+            logo: hhpartners.svg
+            homepage_url: https://www.hhpartners.fi/
+          - name: id est avocats
+            logo: idest.svg
+            homepage_url: https://www.idest.ch/
+          - name: JBB Rechtsanwälte
+            logo: jbb.svg
+            homepage_url: https://www.jbb.de/
+          - name: JUN Legal GmbH
+            logo: jun.svg
+            homepage_url: https://jun-legal.com/
+          - name: Lee Tsai and Partners
+            logo: lee-tsai.svg
+            homepage_url: https://www.leetsai.com/
+          - name: Lex Pan Law
+            logo: lexpanlaw.svg
+            homepage_url: https://lexpanlaw.com/
+          - name: LR29
+            logo: lr29.svg
+            homepage_url: https://www.lr29.de/
+          - name: Maggie Wang
+            logo: maggiewang.svg
+            homepage_url: https://maggiewang.com/
+          - name: Mishi Choudhary & Associates
+            logo: mishi.svg
+            homepage_url: https://mishichoudhary.com/
+          - name: Moorcrofts
+            logo: moorcrofts.svg
+            homepage_url: https://www.moorcrofts.com/
+          - name: NORDEMANN
+            logo: nordemann.svg
+            homepage_url: https://nordemann.de/
+          - name: Osborne Clarke
+            logo: osborne-clarke.svg
+            homepage_url: https://www.osborneclarke.com/
+          - name: STLM Law Offices
+            logo: southtoranomon.svg
+            homepage_url: http://www.stlm.jp/
+          - name: Studio Legale
+            logo: studio-legale.svg
+            homepage_url: https://www.studio-legale.it/
+          - name: Taylor English
+            logo: taylorenglish.svg
+            homepage_url: https://www.taylorenglish.com/
+          - name: Witzel Erb Backu & Partner
+            logo: witzel.svg
+            homepage_url: https://www.witzel-law.com/
+      - subcategory:
+        name: Service Providers
+        items:
+          - name: "{metæffekt}"
+            logo: metaeffekt.svg
+            homepage_url: https://metaeffekt.com/
+          - name: AlektoMetis
+            logo: alektometis.svg
+            homepage_url: https://alektometis.com/
+          - name: Bitsea
+            logo: bitsea.svg
+            homepage_url: https://www.bitsea.de/
+          - name: Black Duck
+            logo: blackduck.svg
+            homepage_url: https://www.synopsys.com/software-integrity/products/black-duck.html
+          - name: CIC
+            logo: cic.svg
+            homepage_url: https://www.cic.org.cn/
+          - name: Cybellum
+            logo: cybellum.svg
+            homepage_url: https://cybellum.com/
+          - name: Deloitte
+            logo: deloitte.svg
+            homepage_url: https://www2.deloitte.com/
+          - name: EACG
+            logo: eacg.svg
+            homepage_url: https://www.eacg.de/
+          - name: FOSSAware
+            logo: fossaware.svg
+            homepage_url: https://fossaware.com/
+          - name: Hitachi Solutions
+            logo: hitachi.svg
+            homepage_url: https://www.hitachi-solutions.com/
+          - name: KOSYAS
+            logo: kosyas.svg
+            homepage_url: https://www.kosyas.com/
+          - name: Lyra Infosystems
+            logo: lyra.svg
+            homepage_url: https://www.lyrainfo.com/
+          - name: NTT Data Italy
+            logo: ntt-data.svg
+            homepage_url: https://it.nttdata.com/
+          - name: Open Source Legal Network Taiwan
+            logo: osln.svg
+            homepage_url: https://osln.tw/
+          - name: Open Source Sense
+            logo: opensourcesense.svg
+            homepage_url: https://opensourcesense.com/
+          - name: OpenTekr
+            logo: opentekr.svg
+            homepage_url: https://www.opentekr.com/
+          - name: Opsequio
+            logo: opsequio.svg
+            homepage_url: https://www.opsequio.com/
+          - name: Orcro
+            logo: orcro.svg
+            homepage_url: https://orcro.co.uk/
+          - name: OSADL
+            logo: osadl.svg
+            homepage_url: https://www.osadl.org/
+          - name: OSPO Now
+            logo: osponow.svg
+            homepage_url: https://ospo.now.sh/
+          - name: OSPOCO
+            logo: ospoco.svg
+            homepage_url: https://ospoco.com/
+          - name: OSS Consultants
+            logo: oss-consultants.svg
+            homepage_url: https://www.ossconsultants.com/
+          - name: PwC Germany
+            logo: pwc.svg
+            homepage_url: https://www.pwc.de/
+          - name: SeQuenX
+            logo: sequenx.svg
+            homepage_url: https://www.sequenx.com/
+          - name: Software Compliance Academy
+            logo: sca.svg
+            homepage_url: https://www.software-compliance-academy.de/
+          - name: Source Auditor
+            logo: sourceauditor.svg
+            homepage_url: https://www.sourceauditor.com/
+          - name: Source Code Control
+            logo: scc.svg
+            homepage_url: https://sourcecodecontrol.co/
+          - name: SunSquare
+            logo: sunsquare.svg
+            homepage_url: https://www.sunsquare.asia/
+          - name: Synergon AB
+            logo: synergon.svg
+            homepage_url: https://synergon.se/
+          - name: TIMETOACT
+            logo: timetoact.svg
+            homepage_url: https://www.timetoact.de/
+          - name: Togan Labs
+            logo: toganlabs.svg
+            homepage_url: https://toganlabs.com/
+          - name: Webpartner
+            logo: webpartner.svg
+            homepage_url: https://www.webpartner.it/
+          - name: WIPRO Limited
+            logo: wipro.svg
+            homepage_url: https://www.wipro.com/
+      - subcategory:
+        name: Vendors
+        items:
+          - name: Black Duck
+            logo: blackduck.svg
+            homepage_url: https://www.synopsys.com/software-integrity/products/black-duck.html
+          - name: Cybellum
+            logo: cybellum.svg
+            homepage_url: https://cybellum.com/
+          - name: FOSSA
+            logo: fossa.svg
+            homepage_url: https://fossa.com/
+          - name: FOSSID AB
+            logo: fossid.svg
+            homepage_url: https://fossid.com/
+          - name: Mend
+            logo: mend.svg
+            homepage_url: https://www.mend.io/
+          - name: Onward Security
+            logo: onward-security.svg
+            homepage_url: https://www.onwardsecurity.com/
+          - name: SCANOSS
+            logo: scanoss.svg
+            homepage_url: https://www.scanoss.com/
+          - name: Scantist
+            logo: scantist.svg
+            homepage_url: https://scantist.com/
+          - name: SECTREND
+            logo: sectrend.svg
+            homepage_url: http://www.sectrend.com.cn/
+          - name: Software Security Technology
+            logo: sst.svg
+            homepage_url: https://www.sst-soft.com/
+          - name: Sonatype
+            logo: sonatype.svg
+            homepage_url: https://www.sonatype.com/
+          - name: Suzhou Prism Colorful Information Technology Co., Ltd.
+            logo: prism-colorful.svg
+            homepage_url: http://www.prism-colorful.com/
+          - name: TrustSource
+            logo: trustsource.svg
+            homepage_url: https://www.trustsource.io/
+          - name: XMirror
+            logo: xmirror.svg
+            homepage_url: https://www.xmirror.cn/
+      - subcategory:
+        name: Third Party Certifiers
+        items:
+          - name: Black Duck
+            logo: blackduck.svg
+            homepage_url: https://www.synopsys.com/software-integrity/products/black-duck.html
+          - name: Bureau Veritas
+            logo: bureau-veritas.svg
+            homepage_url: https://www.bureauveritas.com/
+          - name: CAICT
+            logo: caict.svg
+            homepage_url: http://www.caict.ac.cn/
+          - name: CESI
+            logo: cesi.svg
+            homepage_url: http://www.cesi.cn/
+          - name: CIC
+            logo: cic.svg
+            homepage_url: https://www.cics-cert.org.cn/
+          - name: Deloitte
+            logo: deloitte.svg
+            homepage_url: https://www2.deloitte.com/
+          - name: ISCAS
+            logo: iscas.svg
+            homepage_url: http://www.iscas.ac.cn/
+          - name: KOSYAS
+            logo: kosyas.svg
+            homepage_url: https://www.kosyas.com/
+          - name: National Financial Technology Certification Center – Beijing
+            logo: nftc.svg
+            homepage_url: http://www.nftc.org.cn/
+          - name: Orcro
+            logo: orcro.svg
+            homepage_url: https://orcro.co.uk/
+          - name: OSPOCO
+            logo: ospoco.svg
+            homepage_url: https://ospoco.com/
+          - name: PwC Germany
+            logo: pwc.svg
+            homepage_url: https://www.pwc.de/
+          - name: SunSquare
+            logo: sunsquare.svg
+            homepage_url: https://www.sunsquare.asia/
+          - name: TIMETOACT
+            logo: timetoact.svg
+            homepage_url: https://www.timetoact.de/
+          - name: TUV Nord (Taiwan)
+            logo: tuv-nord.svg
+            homepage_url: https://www.tuv-nord.com/tw/
+          - name: TUV SUD
+            logo: tuvsud.svg
+            homepage_url: https://www.tuvsud.com/
+  - category:
+    name: OpenChain Members
+    subcategories:
+      - subcategory:
+        name: Platinum
+        items:
+          - item:
+            name: Amazon
+            homepage_url: https://amazon.com/
+            logo: amazon.svg
+            organization:
+              name: Amazon
+          - item:
+            name: Arm Limited
+            homepage_url: https://arm.com/
+            logo: arm_limited.svg
+            description: ARM Ltd. is a British semiconductor and software design company. The company develops microprocessors based on reduced instruction set computing that is licensed by more than 250 computer chip manufacturers. They serve a wide range of industries including automotive, healthcare, infrastructure, IoT, mobile, smart homes, and wearables. ARM has sold 1,379 licenses to more than 450 partners. The company was founded in 1990 and is headquartered in the UK
+            crunchbase: https://www.crunchbase.com/organization/arm
+            twitter: https://twitter.com/ArmCommunity
+            extra:
+              linkedin_url: https://www.linkedin.com/company/arm
+          - item:
+            name: BMW
+            homepage_url: https://bmwgroup.com/
+            logo: bmw.svg
+            description: |-
+              With its four brands BMW, MINI, Rolls-Royce and BMW Motorrad, the BMW Group is the world's leading premium manufacturer of automobiles and motorcycles and also provides premium financial and mobility services. The BMW Group production network comprises 30 production and assembly facilities in 14 countries; the company has a global sales network in more than 140 countries. In 2018, the BMW Group sold over 2,490,000 passenger vehicles and more than 165,000 motorcycles worldwide. The profit before tax in the financial year 2018 was €9.815 billion on revenues amounting to €97.480 billion. As of 31 December 2018, the BMW Group had a workforce of 134,682 employees. The success of the BMW Group has always been based on long-term thinking and responsible action. The company has therefore established ecological and social sustainability throughout the value chain, comprehensive product responsibility and a clear commitment to conserving resources as an integral part of its strategy.
+
+              --- Merged Data:
+
+              Die offizielle Website von BMW Deutschland: BMW Automobile, Services, Technologien - und alles zum Thema Fahrfreude.
+            crunchbase: https://www.crunchbase.com/organization/bmw
+            twitter: https://twitter.com/BMW
+            extra:
+              linkedin_url: https://www.linkedin.com/company/bmw-group
+          - item:
+            name: Bosch
+            homepage_url: https://bosch.com/
+            logo: bosch.svg
+            description: Bosch is a global supplier of technology and services. Bosch specializes in consumer goods, industrial technology, and energy technology. It offers innovative solutions for smart homes, smart cities, connected mobility, and connected manufacturing. Bosch comprises Robert Bosch GmbH as well as subsidiary and regional companies in several countries. Bosch was founded in 1886 and is headquartered in Gerlingen, Germany.
+            crunchbase: https://www.crunchbase.com/organization/bosch
+            twitter: https://twitter.com/BoschGlobal
+            extra:
+              linkedin_url: https://www.linkedin.com/company/bosch
+          - item:
+            name: ByteDance Ltd.
+            homepage_url: https://bytedance.com/
+            logo: bytedance_ltd.svg
+            description: ByteDance is a technology company operating a range of content platforms that inform, educate, entertain, and inspire people across languages, cultures, and geographies. Dedicated to building global platforms of creation and interaction, ByteDance now ...
+            organization:
+              name: ByteDance Ltd.
+          - item:
+            name: CARIAD SE
+            homepage_url: https://cariad.technology/
+            logo: cariad_se.svg
+            description: |-
+              CARIAD is an automotive software company in the Volkswagen Group that consolidates and further expands the Group's software competencies to transform automotive mobility. The company develops the leading tech stack for the automotive industry with the mission to make the automotive experience safer, more sustainable, and more comfortable in a new way – for everyone, everywhere. 
+              CARIAD builds a uniform software platform for all brands of the Volkswagen Group, which includes a unified and scalable architecture, an operating system, and an automotive cloud. 
+              We transform cars into software-defined vehicles that seamlessly integrate the automotive experience into our digital life, turning the Volkswagen Group into a software-driven mobility provider. CARIAD’s headquarters is located in Germany and co-operates with international Volkswagen Group teams in the US and China. 
+              Visit: https://cariad.technology
+            organization:
+              name: CARIAD SE
+          - item:
+            name: Cisco Systems, Inc.
+            homepage_url: https://cisco.com/
+            logo: cisco_systems_inc.svg
+            description: "Cisco (NASDAQ: CSCO) is the worldwide technology leader that has been making the Internet work since 1984. Their people, products, and partners help society securely connect and seize tomorrow's digital opportunity today. Cisco and the Cisco logo are trademarks or registered trademarks of Cisco and/or its affiliates in the U.S. and other countries."
+            crunchbase: https://www.crunchbase.com/organization/cisco
+            twitter: https://twitter.com/Cisco
+            extra:
+              linkedin_url: https://www.linkedin.com/company/cisco
+          - item:
+            name: Comcast Cable Communications, LLC
+            homepage_url: https://xfinity.com/
+            logo: comcast_cable_communications_llc.svg
+            description: Founded in 1963 and headquartered in Philadelphia, Pennsylvania, Comcast Corporation is an American telecommunications conglomerate. Comcast owns two primary businesses, Comcast Cable and NBCUniversal. Comcast delivers phone service and high-speed internet under the brand Xfinity. Comcast provides its services for both residents and commercial businesses. E! Television Network, Telemundo & NBC are all a part of their broadcast networks. Some of their media includes news, entertainment, and sports.
+            crunchbase: https://www.crunchbase.com/organization/comcast
+            twitter: https://twitter.com/Xfinity
+            extra:
+              linkedin_url: https://www.linkedin.com/company/comcast
+          - item:
+            name: Ericsson
+            homepage_url: https://ericsson.com/
+            logo: ericsson.svg
+            description: Founded in 1876, Ericsson is a Swedish communication technology and services provider. The company offers software, services, and infrastructure for information and communications technology used by telecommunications operators, including traditional telecommunications, Internet Protocol networking equipment, mobile and fixed broadband, cable TV, IPTV, video systems, and business support solutions. Ericsson is headquartered in Stockholm, Sweden.
+            crunchbase: https://www.crunchbase.com/organization/ericsson
+            twitter: https://twitter.com/ericsson
+            extra:
+              linkedin_url: https://www.linkedin.com/company/ericsson
+          - item:
+            name: Fujitsu Limited
+            homepage_url: https://fujitsu.com/
+            logo: fujitsu_limited.svg
+            description: Fujitsu is the leading Japanese information and communication technology (ICT) company offering a full range of technology products, solutions and services. Approximately 162, 000 Fujitsu people support customers in more than 100 countries. The company uses its experience and the power of ICT to shape the future of society with its customers. Fujitsu Limited reported consolidated revenues of 4.8 trillion yen (US$46 billion) for the fiscal year ended March 31, 2014. Fujitsu is the world's fourth largest IT services provider and No.1 in Japan. Fujitsu is among the world's top five providers of servers. FORTUNE named Fujitsu as one of 'the World's Most Admired Companies' in 2013. Fujitsu Group holds about 97, 000 patents worldwide. Fujitsu is part of the Dow Jones Sustainability Indexes (World), FTSE4Good Index Series, and Oekom research.
+            crunchbase: https://www.crunchbase.com/organization/fujitsu
+            twitter: https://twitter.com/Fujitsu_Global
+            extra:
+              linkedin_url: https://www.linkedin.com/company/fujitsu-uk-and-ireland
+          - item:
+            name: Hitachi, Ltd.
+            homepage_url: https://hitachi.com/
+            logo: hitachi_ltd.svg
+            description: Founded in 1910, Hitachi provides information and telecommunication systems, social infrastructure and industrial systems, electronic systems and equipment, construction machinery, high functional materials and components, automotive systems, smart life and eco-friendly systems, other products, and financial services in Japan and internationally. The company is headquartered in Tokyo, Japan.
+            crunchbase: https://www.crunchbase.com/organization/hitachi
+            twitter: https://twitter.com/HitachiGlobal
+            extra:
+              linkedin_url: https://www.linkedin.com/company/hitachi-data-systems
+          - item:
+            name: Honda Motor Co., Ltd.
+            homepage_url: https://honda.com/
+            logo: honda_motor_co_ltd.svg
+            description: |-
+              AGL Steering Committee Participation Agreement - Bronze
+
+              Honda's R&D subsidiary.
+
+              Parent company of Honda R&D America and  Honda R&D Innovations (formerly Honda Silicon Valley Labs)
+            crunchbase: https://www.crunchbase.com/organization/honda-automobiles
+            twitter: https://twitter.com/Honda
+            extra:
+              linkedin_url: https://www.linkedin.com/company/american-honda-motor-company-inc-
+          - item:
+            name: Honor Device Co. Ltd
+            homepage_url: https://hihonor.com/
+            logo: honor_device_co.svg
+            description: HONOR is a leading global provider of smart devices. Discover high quality smartphones, tablets, laptops and wearables, accessories in HONOR official site.
+            crunchbase: https://www.crunchbase.com/organization/honor
+            twitter: https://twitter.com/Honorglobal
+            extra:
+              linkedin_url: https://www.linkedin.com/company/hihonor
+          - item:
+            name: Huawei Technologies Co., Ltd
+            homepage_url: https://huawei.com/
+            logo: huawei_technologies_co.svg
+            description: Huawei is a global provider of information and communications technology (ICT) infrastructure and smart devices. Huawei is headquartered in Shenzhen, China.
+            crunchbase: https://www.crunchbase.com/organization/huawei
+            twitter: https://twitter.com/Huawei
+            extra:
+              linkedin_url: https://www.linkedin.com/company/huawei
+          - item:
+            name: Meta Platforms, Inc.
+            homepage_url: https://meta.com/
+            logo: meta_platforms_inc.svg
+            description: Founded in 2004 and headquartered in Menlo Park, California, Facebook is an American online social media and social networking service company that provides various products to connect and share.
+            crunchbase: https://www.crunchbase.com/organization/facebook
+            twitter: https://twitter.com/Meta
+            extra:
+              linkedin_url: https://www.linkedin.com/company/facebook
+          - item:
+            name: Microsoft Corporation
+            homepage_url: https://microsoft.com/
+            logo: microsoft_corporation.svg
+            description: The Microsoft Corporation is a publicly owned American software corporation headquartered in Redmond, Washington. Founded in 1975, the company develops, manufactures, licenses and supports a variety of computing products used by consumers and businesses. Some of their popular products include Windows, Xbox, Microsoft HoloLens, Microsoft Lumia, Outlook, Skype, OneDrive and Microsoft Band.
+            crunchbase: https://www.crunchbase.com/organization/microsoft
+            twitter: https://twitter.com/Microsoft
+            extra:
+              linkedin_url: https://www.linkedin.com/company/microsoft
+          - item:
+            name: Moxa Inc.
+            homepage_url: https://moxa.com/
+            logo: moxa_inc.svg
+            description: Moxa Technologies is a Taiwanese technology company specializing in edge connectivity, industrial computing, and network infrastructure solutions.
+            crunchbase: https://www.crunchbase.com/organization/moxa
+            twitter: https://twitter.com/MoxaInc
+            extra:
+              linkedin_url: https://www.linkedin.com/company/moxa
+          - item:
+            name: NEC Corporation
+            homepage_url: https://nec.com/
+            logo: nec_corporation.svg
+            description: NEC Corporation is a provider of Internet, broadband network and enterprise business solutions. The company offers IT, network and cloud solutions in addition to network, software, computer products and more. NEC is headquartered in Tokyo, Japan.
+            crunchbase: https://www.crunchbase.com/organization/nec
+            twitter: https://twitter.com/NEC_corp
+            extra:
+              linkedin_url: https://www.linkedin.com/company/nec
+          - item:
+            name: Panasonic Holdings Corporation
+            homepage_url: https://holdings.panasonic/jp
+            logo: panasonic_holdings_corporation.svg
+            description: Panasonic Corporation is a company that focuses on electronics, manufacturing products for a range of consumer, business, and industrial uses, as well as a variety of components. Panasonic Corporation is headquartered in Osaka, Japan.
+            crunchbase: https://www.crunchbase.com/organization/panasonic
+            twitter: https://twitter.com/panasonic
+            extra:
+              linkedin_url: https://www.linkedin.com/company/panasonic
+          - item:
+            name: Qualcomm, Inc.
+            homepage_url: https://qualcomm.com/
+            logo: qualcomm_inc.svg
+            description: |-
+              Founded in 1985, QUALCOMM is a global semiconductor company, known for designing, manufacturing, and marketing digital wireless communications equipment and services. The company generates the majority of its sales through the development and marketing of semiconductor chips and system software based on code-division multiple access (CDMA) and other technologies. They are headquartered in San Diego, California.
+
+              --- Merged Data:
+
+              Qualcomm is a semiconductor company that manufactures and markets digital wireless telecommunications products and services. They are engaged in the development and commercialization of a digital communication technology called code division multiple a...
+            crunchbase: https://www.crunchbase.com/organization/qualcomm
+            twitter: https://twitter.com/Qualcomm
+            extra:
+              linkedin_url: https://www.linkedin.com/company/firethorn
+          - item:
+            name: Siemens AG
+            homepage_url: https://siemens.com/
+            logo: siemens_ag.svg
+            description: Founded in 1847, Siemens is a global technology company focusing on electrification, automation, and digitalization. Siemens is a producer of energy-efficient, resource-saving technologies, creating offshore wind turbine construction, and is a supplier of gas and steam turbines for power generation. Siemens is a provider of power transmission and infrastructure solutions as well as automation, drive and software solutions. The company also provides medical imaging equipment such as computed tomography and magnetic resonance imaging systems. Siemens is headquartered in Munich, Germany.
+            crunchbase: https://www.crunchbase.com/organization/siemens
+            twitter: https://twitter.com/Siemens
+            extra:
+              linkedin_url: https://www.linkedin.com/company/siemens
+          - item:
+            name: Sony Group Corporation
+            homepage_url: https://sony.com/en/
+            logo: sony_group_corporation.svg
+            description: SONY CORPORATION is engaged in the operation of imaging products and solution (IP&S), game, mobile products and communication (MP&C), home entertainment and sound (HE&S), device, movie, music, financial and other business. IP&S segment provides digital imaging products and professional solutions. Game segment produces and distributes consumer game machines and software. MP&C segment operates mobile communication and personal mobile product business. HE&S segment operates television business, video and audio business. Device segment operates semiconductor business and component business. Movie segment engages in movie production, television program production, media network business. Music segment produces and distributes music software and animation products. Finance segment operates insurance and banking business. As of March 31, 2014, the Company had 1337 subsidiaries and 115 associated companies.
+            crunchbase: https://www.crunchbase.com/organization/sony-group-corporation
+            twitter: https://twitter.com/SonyGroupGlobal
+            extra:
+              linkedin_url: https://www.linkedin.com/company/sony-electronics
+          - item:
+            name: Toshiba Corporation
+            homepage_url: https://toshiba.com/
+            logo: toshiba_corporation.svg
+            description: Toshiba Corporation leads a global group of companies that offer a diversified product range and services including information technology and communications equipment and systems, electronic components and materials, power systems, industrial and social infrastructure systems, consumer electronics, home appliances, medical equipment, office equipment, and lighting and logistics. Toshiba was founded in 1939 and is globally headquartered in Minato, Tokyo, Japan.
+            crunchbase: https://www.crunchbase.com/organization/toshiba-america-electronic-components
+            twitter: https://twitter.com/ToshibaAmerica
+            extra:
+              linkedin_url: https://www.linkedin.com/company/toshiba-corporation
+          - item:
+            name: TOYOTA MOTOR CORPORATION
+            homepage_url: https://toyota.com/
+            logo: toyota_motor_corporation.svg
+            description: Founded in 1937, Toyota is a Japanese multinational automotive manufacturer that sells trucks, cars, SUVs, hybrids and minivans. The company is headquartered in Aichi, Japan.
+            crunchbase: https://www.crunchbase.com/organization/toyota
+            twitter: https://twitter.com/Toyota
+            extra:
+              linkedin_url: https://www.linkedin.com/company/toyota
