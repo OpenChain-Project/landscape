@@ -646,7 +646,7 @@ landscape:
             logo: sca.svg
             homepage_url: https://www.software-compliance-academy.de/
           - name: Source Auditor
-            logo: sourceauditor.svg
+            logo: source-auditor.svg
             homepage_url: https://www.sourceauditor.com/
           - name: Source Code Control
             logo: scc.svg
