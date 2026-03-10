@@ -288,6 +288,8 @@ landscape:
           - name: OpenAnolis
             logo: openanolis.svg
             homepage_url: https://openanolis.cn/
+            second_path:
+              - Conformance / OpenChain ISO/IEC 18974
           - name: openEuler
             logo: openeuler.svg
             homepage_url: https://openeuler.org/
@@ -472,9 +474,15 @@ landscape:
           - name: Canpus
             logo: canpus.svg
             homepage_url: https://www.canpus.com/
+          - name: CJ Olive Young
+            logo: cj-olive-young.svg
+            homepage_url: https://global.oliveyoung.com/
           - name: Netcore
             logo: netcore.svg
             homepage_url: https://netcorecloud.com/
+          - name: Teoresi S.p.A.
+            logo: teoresi.svg
+            homepage_url: https://www.teoresigroup.com
           - name: UnionTech Software
             logo: uniontech.svg
             homepage_url: https://www.uniontech.com/
