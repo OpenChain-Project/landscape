@@ -570,7 +570,7 @@ landscape:
       - subcategory:
         name: Service Providers
         items:
-          - name: "{metæffekt}"
+          - name: '{metæffekt}'
             logo: metaeffekt.svg
             homepage_url: https://metaeffekt.com/
           - name: AlektoMetis
