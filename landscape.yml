@@ -405,6 +405,9 @@ landscape:
           - name: Telechips
             logo: telechips.svg
             homepage_url: https://www.telechips.com/
+          - name: Temco Microsystems Inc.
+            logo: temco.svg
+            homepage_url: https://temcostore.com/
           - name: The Center for Research and Development Hong Kong (CRD-HK)
             logo: crd-hk.svg
             homepage_url: https://www.crd.org.hk/
