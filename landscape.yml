@@ -408,6 +408,9 @@ landscape:
           - name: Temco Microsystems Inc.
             logo: temco.svg
             homepage_url: https://temcostore.com/
+          - name: Teoresi S.p.A.
+            logo: teoresi-group.svg
+            homepage_url: http://www.teoresigroup.com/
           - name: The Center for Research and Development Hong Kong (CRD-HK)
             logo: crd-hk.svg
             homepage_url: https://www.crd.org.hk/
