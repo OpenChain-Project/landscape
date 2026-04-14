@@ -84,7 +84,7 @@ landscape:
             homepage_url: http://www.coontec.com/
           - name: CP1 Associates
             logo: cp1.svg
-            homepage_url: https://cp1associates.com/
+            homepage_url: https://cp1associates.uk/
           - name: Credativ
             logo: credativ.svg
             homepage_url: https://www.credativ.com/
@@ -337,7 +337,7 @@ landscape:
               - Conformance / OpenChain ISO/IEC 18974
           - name: SAIC Z-One
             logo: saic.svg
-            homepage_url: https://www.z-one.ai/
+            homepage_url: https://z-one.ai/
           - name: Samsung Electronics
             logo: samsung.svg
             homepage_url: https://www.samsung.com/
