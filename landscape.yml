@@ -781,8 +781,6 @@ landscape:
             name: Amazon
             homepage_url: https://amazon.com/
             logo: amazon.svg
-            organization:
-              name: Amazon
           - item:
             name: Arm Limited
             homepage_url: https://arm.com/
@@ -820,8 +818,6 @@ landscape:
             homepage_url: https://bytedance.com/
             logo: bytedance_ltd.svg
             description: ByteDance is a technology company operating a range of content platforms that inform, educate, entertain, and inspire people across languages, cultures, and geographies. Dedicated to building global platforms of creation and interaction, ByteDance now ...
-            organization:
-              name: ByteDance Ltd.
           - item:
             name: CARIAD SE
             homepage_url: https://cariad.technology/
@@ -831,8 +827,6 @@ landscape:
               CARIAD builds a uniform software platform for all brands of the Volkswagen Group, which includes a unified and scalable architecture, an operating system, and an automotive cloud. 
               We transform cars into software-defined vehicles that seamlessly integrate the automotive experience into our digital life, turning the Volkswagen Group into a software-driven mobility provider. CARIAD’s headquarters is located in Germany and co-operates with international Volkswagen Group teams in the US and China. 
               Visit: https://cariad.technology
-            organization:
-              name: CARIAD SE
           - item:
             name: Cisco Systems, Inc.
             homepage_url: https://cisco.com/
