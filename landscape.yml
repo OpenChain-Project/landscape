@@ -794,7 +794,12 @@ landscape:
             name: BMW
             homepage_url: https://bmwgroup.com/
             logo: bmw.svg
-            description: "With its four brands BMW, MINI, Rolls-Royce and BMW Motorrad, the BMW Group is the world's leading premium manufacturer of automobiles and motorcycles and also provides premium financial and mobility services. The BMW Group production network comprises 30 production and assembly facilities in 14 countries; the company has a global sales network in more than 140 countries. In 2018, the BMW Group sold over 2,490,000 passenger vehicles and more than 165,000 motorcycles worldwide. The profit before tax in the financial year 2018 was €9.815 billion on revenues amounting to €97.480 billion. As of 31 December 2018, the BMW Group had a workforce of 134,682 employees. The success of the BMW Group has always been based on long-term thinking and responsible action. The company has therefore established ecological and social sustainability throughout the value chain, comprehensive product responsibility and a clear commitment to conserving resources as an integral part of its strategy.\n\n--- Merged Data:\n\nDie offizielle Website von BMW Deutschland: BMW Automobile, Services, Technologien - und alles zum Thema Fahrfreude."
+            description: |-
+              With its four brands BMW, MINI, Rolls-Royce and BMW Motorrad, the BMW Group is the world's leading premium manufacturer of automobiles and motorcycles and also provides premium financial and mobility services. The BMW Group production network comprises 30 production and assembly facilities in 14 countries; the company has a global sales network in more than 140 countries. In 2018, the BMW Group sold over 2,490,000 passenger vehicles and more than 165,000 motorcycles worldwide. The profit before tax in the financial year 2018 was €9.815 billion on revenues amounting to €97.480 billion. As of 31 December 2018, the BMW Group had a workforce of 134,682 employees. The success of the BMW Group has always been based on long-term thinking and responsible action. The company has therefore established ecological and social sustainability throughout the value chain, comprehensive product responsibility and a clear commitment to conserving resources as an integral part of its strategy.
+
+              --- Merged Data:
+
+              Die offizielle Website von BMW Deutschland: BMW Automobile, Services, Technologien - und alles zum Thema Fahrfreude.
             crunchbase: https://www.crunchbase.com/organization/bmw
             twitter: https://twitter.com/BMW
             extra:
@@ -817,7 +822,11 @@ landscape:
             name: CARIAD SE
             homepage_url: https://cariad.technology/
             logo: cariad_se.svg
-            description: "CARIAD is an automotive software company in the Volkswagen Group that consolidates and further expands the Group's software competencies to transform automotive mobility. The company develops the leading tech stack for the automotive industry with the mission to make the automotive experience safer, more sustainable, and more comfortable in a new way – for everyone, everywhere. \nCARIAD builds a uniform software platform for all brands of the Volkswagen Group, which includes a unified and scalable architecture, an operating system, and an automotive cloud. \nWe transform cars into software-defined vehicles that seamlessly integrate the automotive experience into our digital life, turning the Volkswagen Group into a software-driven mobility provider. CARIAD’s headquarters is located in Germany and co-operates with international Volkswagen Group teams in the US and China. \nVisit: https://cariad.technology"
+            description: |-
+              CARIAD is an automotive software company in the Volkswagen Group that consolidates and further expands the Group's software competencies to transform automotive mobility. The company develops the leading tech stack for the automotive industry with the mission to make the automotive experience safer, more sustainable, and more comfortable in a new way – for everyone, everywhere. 
+              CARIAD builds a uniform software platform for all brands of the Volkswagen Group, which includes a unified and scalable architecture, an operating system, and an automotive cloud. 
+              We transform cars into software-defined vehicles that seamlessly integrate the automotive experience into our digital life, turning the Volkswagen Group into a software-driven mobility provider. CARIAD’s headquarters is located in Germany and co-operates with international Volkswagen Group teams in the US and China. 
+              Visit: https://cariad.technology
           - item:
             name: Cisco Systems, Inc.
             homepage_url: https://cisco.com/
@@ -867,7 +876,12 @@ landscape:
             name: Honda Motor Co., Ltd.
             homepage_url: https://honda.com/
             logo: honda_motor_co_ltd.svg
-            description: "AGL Steering Committee Participation Agreement - Bronze\n\nHonda's R&D subsidiary.\n\nParent company of Honda R&D America and  Honda R&D Innovations (formerly Honda Silicon Valley Labs)"
+            description: |-
+              AGL Steering Committee Participation Agreement - Bronze
+
+              Honda's R&D subsidiary.
+
+              Parent company of Honda R&D America and  Honda R&D Innovations (formerly Honda Silicon Valley Labs)
             crunchbase: https://www.crunchbase.com/organization/honda-automobiles
             twitter: https://twitter.com/Honda
             extra:
@@ -939,7 +953,12 @@ landscape:
             name: Qualcomm Technologies, Inc.
             homepage_url: https://qualcomm.com/
             logo: qualcomm_technologies_inc.svg
-            description: "Founded in 1985, QUALCOMM is a global semiconductor company, known for designing, manufacturing, and marketing digital wireless communications equipment and services. The company generates the majority of its sales through the development and marketing of semiconductor chips and system software based on code-division multiple access (CDMA) and other technologies. They are headquartered in San Diego, California.\n\n--- Merged Data:\n\nQualcomm is a semiconductor company that manufactures and markets digital wireless telecommunications products and services. They are engaged in the development and commercialization of a digital communication technology called code division multiple a..."
+            description: |-
+              Founded in 1985, QUALCOMM is a global semiconductor company, known for designing, manufacturing, and marketing digital wireless communications equipment and services. The company generates the majority of its sales through the development and marketing of semiconductor chips and system software based on code-division multiple access (CDMA) and other technologies. They are headquartered in San Diego, California.
+
+              --- Merged Data:
+
+              Qualcomm is a semiconductor company that manufactures and markets digital wireless telecommunications products and services. They are engaged in the development and commercialization of a digital communication technology called code division multiple a...
             crunchbase: https://www.crunchbase.com/organization/qualcomm
             twitter: https://twitter.com/Qualcomm
             extra:
