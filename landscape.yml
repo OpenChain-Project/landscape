@@ -889,7 +889,7 @@ landscape:
           - item:
             name: Honor Device Co. Ltd
             homepage_url: https://hihonor.com/
-            logo: honor_device_co.svg
+            logo: honor_device_co_ltd.svg
             description: HONOR is a leading global provider of smart devices. Discover high quality smartphones, tablets, laptops and wearables, accessories in HONOR official site.
             crunchbase: https://www.crunchbase.com/organization/honor
             twitter: https://twitter.com/Honorglobal
@@ -898,7 +898,7 @@ landscape:
           - item:
             name: Huawei Technologies Co., Ltd
             homepage_url: https://huawei.com/
-            logo: huawei_technologies_co.svg
+            logo: huawei_technologies_co_ltd.svg
             description: Huawei is a global provider of information and communications technology (ICT) infrastructure and smart devices. Huawei is headquartered in Shenzhen, China.
             crunchbase: https://www.crunchbase.com/organization/huawei
             twitter: https://twitter.com/Huawei
